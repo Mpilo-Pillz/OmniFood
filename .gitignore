@@ -1,2 +1,6 @@
 *.png
 *.jpg
+.DS_Store
+OmnifoodContents/.DS_Store
+resources/img/omnifood-content.rtf
+resources/img/DS_Store
